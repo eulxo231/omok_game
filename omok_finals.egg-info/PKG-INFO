@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: omok-finals
+Version: 0.1.0
+Summary: Console omok game implemented with MVC and small objects.
+Requires-Python: >=3.10
+Provides-Extra: dev
+Requires-Dist: pylint; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
